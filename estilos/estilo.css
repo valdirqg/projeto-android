@@ -100,6 +100,7 @@ main{
 
 main img{
     width: 100%;
+    margin: auto;
 }
 
 main img.pequena{
